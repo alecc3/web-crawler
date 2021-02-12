@@ -1,0 +1,172 @@
+1. Unique pages:7523
+2. Longest page:plrg.ics.uci.edu
+3. 50 Most Frequent words
+1. student
+2. ics
+3. policies
+4. research
+5. bren
+6. graduate
+7. computer
+8. academic
+9. school
+10. uci
+11. students
+12. undergraduate
+13. contact
+14. information
+15. events
+16. science
+17. donald
+18. support
+19. will
+20. software
+21. faculty
+22. course
+23. year
+24. news
+25. computing
+26. informatics
+27. courses
+28. plan
+29. affairs
+30. visit
+31. policy
+32. irvine
+33. engineering
+34. may
+35. can
+36. staff
+37. dean
+38. apply
+39. projects
+40. university
+41. campus
+42. sciences
+43. use
+44. upcoming
+45. social
+46. people
+47. please
+48. change
+49. data
+50. resources
+4. Subdomains
+DataGuard.ics.uci.edu : 1
+DataProtector.ics.uci.edu : 1
+Transformativeplay.ics.uci.edu : 1
+acoi.ics.uci.edu : 1
+aiclub.ics.uci.edu : 1
+alumni.ics.uci.edu : 5
+archive.ics.uci.edu : 3
+asterix-gerrit.ics.uci.edu : 1
+asterix.ics.uci.edu : 6
+asterixdb.ics.uci.edu : 2
+auge.ics.uci.edu : 2
+awareness.ics.uci.edu : 1
+calendar.ics.uci.edu : 1
+cbcl.ics.uci.edu : 4
+cert.ics.uci.edu : 3
+cgvw.ics.uci.edu : 1
+checkmate.ics.uci.edu : 1
+chenli.ics.uci.edu : 20
+cherry.ics.uci.edu : 1
+chime.ics.uci.edu : 1
+cloudberry.ics.uci.edu : 7
+cml.ics.uci.edu : 3
+cocoa-krispies.ics.uci.edu : 1
+codeexchange.ics.uci.edu : 3
+computableplant.ics.uci.edu : 107
+coronavirustwittermap.ics.uci.edu : 1
+cradl.ics.uci.edu : 2
+cwicsocal18.ics.uci.edu : 1
+cyberclub.ics.uci.edu : 1
+dblp.ics.uci.edu : 1
+duttgroup.ics.uci.edu : 5
+dynamo.ics.uci.edu : 1
+emj-pc.ics.uci.edu : 1
+emj.ics.uci.edu : 34
+esl.ics.uci.edu : 1
+evoke.ics.uci.edu : 4
+flamingo.ics.uci.edu : 12
+fr.ics.uci.edu : 5
+futurehealth.ics.uci.edu : 4
+grape.ics.uci.edu : 24
+graphics.ics.uci.edu : 14
+graphmod.ics.uci.edu : 1
+hai.ics.uci.edu : 2
+halps.ics.uci.edu : 1
+hana.ics.uci.edu : 3
+hanalab.ics.uci.edu : 1
+hobbes.ics.uci.edu : 1
+hombao.ics.uci.edu : 2
+honors.ics.uci.edu : 1
+i-sensorium.ics.uci.edu : 1
+iasl.ics.uci.edu : 4
+informatics.ics.uci.edu : 1
+intranet.ics.uci.edu : 1
+ipf.ics.uci.edu : 1
+ipubmed.ics.uci.edu : 3
+isg.ics.uci.edu : 3
+jgarcia.ics.uci.edu : 1
+jujube.ics.uci.edu : 3
+kdd.ics.uci.edu : 2
+keys.ics.uci.edu : 1
+liege.ics.uci.edu : 6
+luci.ics.uci.edu : 5
+mailman.ics.uci.edu : 3
+malek.ics.uci.edu : 2
+mapgrid.ics.uci.edu : 1
+mcs.ics.uci.edu : 10
+mdogucu.ics.uci.edu : 1
+mds.ics.uci.edu : 1
+metaviz.ics.uci.edu : 1
+mhcid.ics.uci.edu : 3
+mondego.ics.uci.edu : 1
+mse.ics.uci.edu : 1
+mswe.ics.uci.edu : 17
+nalini.ics.uci.edu : 8
+ngs.ics.uci.edu : 38
+nile.ics.uci.edu : 1
+omni.ics.uci.edu : 1
+pasteur.ics.uci.edu : 2
+perennialpolycultures.ics.uci.edu : 1
+piki.ics.uci.edu : 1
+plrg.ics.uci.edu : 1
+psearch.ics.uci.edu : 2
+radicle.ics.uci.edu : 2
+redmiles.ics.uci.edu : 1
+riscit.ics.uci.edu : 1
+satware.ics.uci.edu : 1
+sconce.ics.uci.edu : 1
+sdcl.ics.uci.edu : 7
+seal.ics.uci.edu : 1
+sherlock.ics.uci.edu : 2
+sli.ics.uci.edu : 6
+soc.ics.uci.edu : 1
+sprout.ics.uci.edu : 3
+statconsulting.ics.uci.edu : 5
+student-council.ics.uci.edu : 2
+studentcouncil.ics.uci.edu : 3
+support.ics.uci.edu : 1
+swiki.ics.uci.edu : 1
+tastier.ics.uci.edu : 2
+tippersweb.ics.uci.edu : 4
+transformativeplay.ics.uci.edu : 14
+ugradforms.ics.uci.edu : 1
+vid.ics.uci.edu : 1
+vision.ics.uci.edu : 5
+wics.ics.uci.edu : 3
+www-db.ics.uci.edu : 3
+www-db.ics.uci.edu:8000 : 1
+www-db.ics.uci.edu:8003 : 1
+www-db.ics.uci.edu:8004 : 1
+www-db.ics.uci.edu:8006 : 1
+www-netra.ics.uci.edu : 4
+www.cert.ics.uci.edu : 2
+www.checkmate.ics.uci.edu : 1
+www.graphics.ics.uci.edu : 2
+www.ics.uci.edu : 624
+www.informatics.ics.uci.edu : 2
+www.isg.ics.uci.edu : 2
+xtune.ics.uci.edu : 2
